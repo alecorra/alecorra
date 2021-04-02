@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello there! I'm Alessandro!</h1>
+<h1>Hello there! I'm Alessandro 👋</h1>
 
 ```js
 export const somethingAboutMe = () => ({
