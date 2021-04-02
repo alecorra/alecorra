@@ -22,8 +22,8 @@ export const somethingAboutMe = () => ({
   askMeAbout: [
     "tech", "webDev", "mindset", "anythingElse"
   ],
-  codesIn: ["typescript", "javascript", "html", "css"],
-  currentlylearning: ["mongo", "redis"],
+  codesIn: ["typescript", "javascript", "html", "css", "sql"],
+  currentlyLearning: ["mongo", "redis"],
   technologies: {
     frontEnd: {
       js_ts: "react",
@@ -31,9 +31,9 @@ export const somethingAboutMe = () => ({
       html: true
     },
     backEnd: {
-      js_ts: ["node", "express"]
-    },
-    databases: ["mssql", "mongo"]
+      js_ts: ["node", "express"],
+      databases: ["mssql", "mongo"]
+    }
   },
   experiences: [
     {
