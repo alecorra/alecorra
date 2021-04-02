@@ -38,10 +38,12 @@ export const somethingAboutMe = () => ({
   experiences: [
     {
       company : "IO Academy",
+      date: ["feb 2019", "may 2019"],
       role : "student"
     },
     {
       company : "Lovehoney Group Ltd",
+      date: ["jul 2019", "today"],
       role : "full-stack developer"
     }
   ],
