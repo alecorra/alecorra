@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```js
+export const somethingAboutMe = () => ({
+  pronouns: "he" | "him",
+  blogUrl: "https://codeat40.co.uk/",
+  askMeAbout: [
+    "tech", "webDev", "mindset", "anythingElse"
+  ],
+  codesIn: ["typescript", "javascript", "html", "css"],
+  currentlylearning: ["mongo", "redis"],
+  technologies: {
+    frontEnd: {
+      js_ts: "react",
+      sass: true,
+      html: true
+    },
+    backEnd: {
+      js_ts: ["node", "express"]
+    },
+    databases: ["mssql", "mongo"]
+  },
+  experiences: [
+    {
+      company : "IO Academy",
+      role : "student"
+    },
+    {
+      company : "Lovehoney Group Ltd",
+      role : "full-stack developer"
+    }
+  ],
+  availableForHire: false
+});
+```
