@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script src="https://kit.fontawesome.com/c25f8e8006.js" crossorigin="anonymous"></script>
-
-<i class="fab fa-linkedin"></i>
+<h1>Hello there! I'm Alessandro!</h1>
 
 ```js
 export const somethingAboutMe = () => ({
