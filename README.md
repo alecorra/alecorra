@@ -23,7 +23,7 @@ export const somethingAboutMe = () => ({
     "tech", "webDev", "mindset", "anythingElse"
   ],
   codesIn: ["typescript", "javascript", "html", "css", "sql"],
-  currentlyLearning: ["mongo", "redis"],
+  currentlyLearning: ["flutter", "dart"],
   technologies: {
     frontEnd: {
       js_ts: "react",
