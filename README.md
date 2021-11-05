@@ -22,8 +22,8 @@ export const somethingAboutMe = () => ({
   askMeAbout: [
     "tech", "webDev", "mindset", "anythingElse"
   ],
-  codesIn: ["typescript", "javascript", "html", "css", "sql"],
-  currentlyLearning: ["nestjs", "flutter", "dart"],
+  codesIn: ["nestJs", "typescript", "javascript", "html", "css", "sql"],
+  currentlyLearning: ["web3", "solidity"],
   technologies: {
     frontEnd: {
       js_ts: "react",
@@ -31,7 +31,7 @@ export const somethingAboutMe = () => ({
       html: true
     },
     backEnd: {
-      js_ts: ["node", "express"],
+      js_ts: ["nestJs", "node", "express"],
       databases: ["mssql", "mongo"]
     }
   },
@@ -43,8 +43,13 @@ export const somethingAboutMe = () => ({
     },
     {
       company : "Lovehoney Group Ltd",
-      date: ["jul 2019", "today"],
+      date: ["jul 2019", "jul 2021"],
       role : "full-stack developer"
+    },
+    {
+      company : "21:32 for venuenow",
+      date: ["aug 2021", "today"],
+      role : "back end developer"
     }
   ],
   availableForHire: false
