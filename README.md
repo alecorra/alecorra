@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 ```js
 export const somethingAboutMe = () => ({
   pronouns: "he" | "him",
-  blogUrl: "https://codeat40.co.uk/",
   askMeAbout: [
     "tech", "webDev", "mindset", "anythingElse"
   ],
-  codesIn: ["nestJs", "typescript", "javascript", "html", "css", "sql"],
+  codesIn: ["nestJs", "typescript", "javascript", "sql"],
   currentlyLearning: ["web3", "solidity"],
+  passions: ["nfts", "retorgaming", "fly fishing"],
   technologies: {
     frontEnd: {
       js_ts: "react",
@@ -32,7 +32,7 @@ export const somethingAboutMe = () => ({
     },
     backEnd: {
       js_ts: ["nestJs", "node", "express"],
-      databases: ["mssql", "mongo"]
+      databases: ["mssql", "mysql"]
     }
   },
   experiences: [
@@ -59,4 +59,4 @@ export const somethingAboutMe = () => ({
 
 ## Keep in touch
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alessandro-corr%C3%A1-ab4a45156/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Code_at_40)
+<!-- [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) -->
