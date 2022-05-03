@@ -26,9 +26,7 @@ export const somethingAboutMe = () => ({
   passions: ["nfts", "retorgaming", "fly fishing"],
   technologies: {
     frontEnd: {
-      js_ts: "react",
-      sass: true,
-      html: true
+      js_ts: "react"
     },
     backEnd: {
       js_ts: ["nestJs", "node", "express"],
@@ -44,12 +42,12 @@ export const somethingAboutMe = () => ({
     {
       company : "Lovehoney Group Ltd",
       date: ["jul 2019", "jul 2021"],
-      role : "full-stack developer"
+      role : "fullstack developer"
     },
     {
       company : "21:32 for venuenow",
       date: ["aug 2021", "today"],
-      role : "back end developer"
+      role : "backend developer"
     }
   ],
   availableForHire: false
