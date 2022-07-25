@@ -21,7 +21,7 @@ export const somethingAboutMe = () => ({
   askMeAbout: [
     "tech", "webDev", "mindset", "anythingElse"
   ],
-  codesIn: ["nestJs", "typescript", "javascript", "sql"],
+  codesIn: ["nestJs", "typescript", "react", "javascript", "sql"],
   currentlyLearning: ["web3", "solidity"],
   passions: ["nfts", "retorgaming", "fly fishing"],
   technologies: {
